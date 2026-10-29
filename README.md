@@ -145,6 +145,9 @@
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
 - 💸 [GrokVideo Studio](https://grokvideogenerator.dev/) - Independent text/image-to-video app using the xAI Grok Imagine API (not affiliated with xAI or X).
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
   - **Free Tier Details:** Free trial with 20 credits; then paid credits. Independent product. **Source checked:** 2026-10-24.
   - **Tags:** `video-generation`, `text-to-video`, `image-to-video`, `freemium`, `independent`
 
